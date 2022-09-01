@@ -1,0 +1,30 @@
+* {
+    max-width: 1280px;
+    margin: auto;
+    padding: 2rem;
+    text-align: center;
+    background-color: darkslategrey;
+}
+
+.first {
+    color: ghostwhite;
+    text-align: center;
+}
+
+.list {
+    color: ghostwhite;
+}
+
+#list1 {
+    text-align: right;
+}
+
+.third {
+    text-align: left;
+}
+
+.link {
+    color: blue;
+    text-align: left;
+
+}
